@@ -21,7 +21,7 @@ global.available = false //status online (online)
 global.botname = "༄RISS BOTZ࿐" //namabot kalian
 global.ownername= "༄RISS BOTZ࿐" //nama kalian
 global.myweb ="https://api-alphabot.herokuapp.com/" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
+global.youtube = " https://www.instagram.com/tatarista02?r=nametag" //bebas asal jan hapus
 global.github = "https://zeeone-ofc.github.io/" //bebas
 global.email = "tata85119@gmail.com" //bebas
 global.region = "Indonesia" //bebas
