@@ -19,7 +19,7 @@ global.available = false //status online (online)
 
 // Other
 global.botname = "༄RISS BOTZ࿐" //namabot kalian
-global.ownername= "༄RISS BOTZ࿐" //nama kalian
+global.ownername= "call me riss" //nama kalian
 global.myweb ="https://chat.whatsapp.com/E5lPT7myQ8xFe5tLoR2GY7" //bebas asal jan hapus
 global.youtube = "https://chat.whatsapp.com/E5lPT7myQ8xFe5tLoR2GY7" //bebas asal jan hapus
 global.github = "https://zeeone-ofc.github.io/" //bebas
