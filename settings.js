@@ -12,7 +12,7 @@ global.APIKeys = {
 }
 
 // setting 
-global.autoread = false // auto read pesan / message
+global.autoread = true // auto read pesan / message
 global.autorecording = true //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
@@ -20,8 +20,8 @@ global.available = false //status online (online)
 // Other
 global.botname = "༄RISS BOTZ࿐" //namabot kalian
 global.ownername= "call me riss" //nama kalian
-global.myweb ="https://chat.whatsapp.com/E5lPT7myQ8xFe5tLoR2GY7" //bebas asal jan hapus
-global.youtube = "https://chat.whatsapp.com/E5lPT7myQ8xFe5tLoR2GY7" //bebas asal jan hapus
+global.myweb ="https://chat.whatsapp.com/GyCEE5g5jtx5Gw4N0nwoUG" //bebas asal jan hapus
+global.youtube = "https://chat.whatsapp.com/GyCEE5g5jtx5Gw4N0nwoUG" //bebas asal jan hapus
 global.github = "https://zeeone-ofc.github.io/" //bebas
 global.email = "tata85119@gmail.com" //bebas
 global.region = "Indonesia" //bebas
@@ -50,7 +50,7 @@ global.mess = {
     private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
 	bot: 'Fitur Khusus Pengguna Nomor Bot',
     errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
-    wait: '⏳ Sedang Di Proses',
+    wait: 'Di Proses Kak',
 	lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
 	example1: 'Selamat Datang @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
